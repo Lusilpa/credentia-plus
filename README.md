@@ -105,12 +105,6 @@ Credentia/
 
 Este projeto foi desenvolvido colaborativamente com foco na aplicação de conceitos de Engenharia de Software e programação C++.
 
-### 🚀 Liderança Técnica
-
-| Membro | Papel | Contribuições Principais |
-| :--- | :--- | :--- |
-| **Luan Palma** | **Tech Lead & Full-Stack** | Liderança de equipe, código limpo, arquitetura do sistema e outras adaptações |
-
 ### 💻 Desenvolvedores Full-Stack
 
 | Membro | Foco de Desenvolvimento | Detalhes da Implementação |
@@ -119,6 +113,7 @@ Este projeto foi desenvolvido colaborativamente com foco na aplicação de conce
 | **Igor Kramer dos Santos** | Gestão de Entidades | Desenvolvimento das áreas de **Participantes** e **Palestrantes**. |
 | **João Pedro da Cunha** | Módulo Institucional | Implementação da área de Instituição, autenticação e configurações. |
 | **Jennifer Kalyne Lima Frota** | Operações de Dados | Implementação e otimização das operações **CRUD** e manipulação de registros. |
+| **Luan Palma** | **Tech Lead & Full-Stack** | Liderança de equipe, código limpo, arquitetura do sistema e outras adaptações |
 | **Pedro Henrique F. Macedo** | Operações de Dados | Implementação e otimização das operações **CRUD** e manipulação de registros. |
 
 ## 🙏 Agradecimentos
